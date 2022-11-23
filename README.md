@@ -5,6 +5,7 @@ Surveys of birds belonging to various functional groups over time can give us im
 In this project, we developed a deep learning convolutional neural network (CNN) classifier of bird species using Python 3, Keras, and Tensorflow.  The model has been trained while different hyperparameters being tuned for best accuracy in predicting the bird species. 
 
 
+![bird](https://github.com/Mahyar-Fazelzadeh/convolutional_neural_network_bird_classification/blob/main/assets/conf_matrix_birds.JPG.png)
 ![bird](https://user-images.githubusercontent.com/39967400/203145787-84826dcb-4fbd-417e-9ef5-3f82c22ea813.png)
 
 ## Bird Species Dataset
